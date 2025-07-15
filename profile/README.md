@@ -5,7 +5,7 @@ Ce projet a été réalisé pendant mon stage de troisième année de licence d'
 Ce projet est en collaboration avec l'association France-IOI.
 
 ### Documentation
-* [Architecture]()
+* [Architecture](https://github.com/UnixFilters/unixfilters-franceIOI/blob/main/docs/structure.md)
 * [Getting started](https://github.com/UnixFilters/unixfilters-franceIOI/blob/main/README.md)
 * [Documentation fonctions](https://unixfilters.github.io/unixfilters-docs/)
 * [Aide]()
