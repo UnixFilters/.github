@@ -1,4 +1,9 @@
-## Hi there 👋
+# Présentation
+Ce projet a été réalisé pendant mon stage de troisième année de licence d'Informatique à l'Université de Lille. Il consiste à implémenter une interface de programmation par blocs permettant l'apprentissage des filtres Unix (grep, tr, cut,...).
+
+La première version est basée sur un projet open-source.
+
+La deuxième version est en collaboration avec l'association France-IOI.
 
 ### Documentation
 [Getting started](https://github.com/UnixFilters/unixfilters-franceIOI/blob/main/README.md)
