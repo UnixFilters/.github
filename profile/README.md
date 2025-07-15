@@ -12,7 +12,7 @@ Ce projet est en collaboration avec l'association France-IOI.
 * [Getting started](https://github.com/UnixFilters/unixfilters-franceIOI/blob/main/README.md)
 * [Mise en place d'une tâche](https://github.com/UnixFilters/unixfilters-franceIOI/blob/main/docs/init_task.md)
 * [Documentation fonctions](https://unixfilters.github.io/unixfilters-docs/)
-* [Documentation checker]()
+* [Documentation checker](https://github.com/UnixFilters/checker/blob/main/docs/documentation_checker.md)
 
 
 Une première version du projet a été réalisée à partir d’un projet open-source existant.
