@@ -10,7 +10,7 @@ Ce projet est en collaboration avec l'association France-IOI.
 
 ### Documentation
 * [Getting started](https://github.com/UnixFilters/unixfilters-franceIOI/blob/main/README.md)
-* [Mise en place d'une tâche]()
+* [Mise en place d'une tâche](https://github.com/UnixFilters/unixfilters-franceIOI/blob/main/docs/init_task.md)
 * [Documentation fonctions](https://unixfilters.github.io/unixfilters-docs/)
 * [Documentation checker]()
 
