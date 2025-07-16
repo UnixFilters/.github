@@ -19,8 +19,6 @@ La documentation complète peut être trouvée [ici](https://unixfilters.github.
 
 #### Interface Blockly/JavaScript
 
-[Voir l'aide](./help/add_block.md)
-
 ```bash
 .
 ├── blocklyUnixFilters_lib.js # Librairie contenant la définition des blocs
@@ -32,8 +30,6 @@ La documentation complète peut être trouvée [ici](https://unixfilters.github.
 ```
 
 #### Librairie Python
-
-[Voir l'aide](./help/add_command.md)
 
 ```bash
 .
