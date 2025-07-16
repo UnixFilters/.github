@@ -14,6 +14,59 @@ La documentation complète peut être trouvée [ici](https://unixfilters.github.
 ## Architecture
 ![Architecture](../architecture.png)
 
+## Arborescence
+### unixfilters
+
+#### Interface Blockly/JavaScript
+
+[Voir l'aide](./help/add_block.md)
+
+```bash
+.
+├── blocklyUnixFilters_lib.js # Librairie contenant la définition des blocs
+├── index.css # Style de la page html
+├── index.html # Contenu de la tâche
+├── jsongenerator.js # Génération du code pour chaque bloc
+├── task.js # Contient les paramètres de la tâche (blocs disponibles, nombre de blocs autorisés,...)
+└── unixfilters.js # Logique de l'affichage et de l'envoi de la commande au serveur
+```
+
+#### Librairie Python
+
+[Voir l'aide](./help/add_command.md)
+
+```bash
+.
+└── server.py # Reçoit le code généré par les blocs et utilise la librairie pour récupérer le résultat et le renvoyer au front
+```
+
+### checker
+```bash
+.
+├── blocklyUnixFilters_lib.js
+├── docs
+│ ├── documentation_checker.md
+│ └── documentation_checker.py
+├── exemple_checker
+│ └── tests
+│  ├── copie de la librairie blockly
+│  │ └── ...
+│  ├── files
+│  │ ├── test01.in # Fichier pris en entrée par le checker
+│  │ ├── test01.out # JSON obtenu après exécution du code
+│  │ └── test01.solout # Résultat attendu
+│  └── gen
+│    ├── checker.py # Logique permettant d'évaluer le score et renvoyer le feedback
+│    ├── commands.py # Librairie exécutant les commandes
+│    ├── livres.txt # Exemple de fichier d'entrée
+│    └── solution.py # Contient le code généré par les blocs
+├── index.css
+├── index.html
+├── jsongenerator.js
+├── task.js
+└── unixfilters.js
+```
+
 
 ### Documentation
 * [Getting started](https://github.com/UnixFilters/unixfilters-franceIOI/blob/main/README.md)
