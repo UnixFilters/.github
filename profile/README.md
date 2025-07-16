@@ -10,7 +10,7 @@ Ce projet a été réalisé pendant mon stage de troisième année de licence d'
 En collaboration avec l'association France-IOI.
 
 ## Documentation
-La documentation complète peut être trouvée [ici](https://unixfilters.github.io/unixfilters-docs/).
+[Documentation complète](https://unixfilters.github.io/unixfilters-docs/).
 ## Architecture
 ![Architecture](../architecture.png)
 
