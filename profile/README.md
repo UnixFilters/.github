@@ -15,9 +15,9 @@ La documentation complète peut être trouvée [ici](https://unixfilters.github.
 ![Architecture](../architecture.png)
 
 ## Arborescence
-### unixfilters
+### unixfilters-franceIOI
 
-#### Interface Blockly/JavaScript
+#### Dossier /public - Interface Blockly/JavaScript
 
 ```bash
 .
@@ -29,7 +29,7 @@ La documentation complète peut être trouvée [ici](https://unixfilters.github.
 └── unixfilters.js # Logique de l'affichage et de l'envoi de la commande au serveur
 ```
 
-#### Librairie Python
+#### Dossier /python_lib - Serveur Python
 
 ```bash
 .
