@@ -37,7 +37,7 @@ La documentation complète peut être trouvée [ici](https://unixfilters.github.
 
 ```bash
 .
-└── server.py # Reçoit le code généré par les blocs et utilise la librairie pour récupérer le résultat et le renvoyer au front
+└── server.py # Reçoit le code généré par les blocs et utilise le checker pour renvoyer le résultat au front
 ```
 
 ### checker
