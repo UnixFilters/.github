@@ -5,7 +5,7 @@ Ce projet a été réalisé pendant mon stage de troisième année de licence d'
 Ce projet est en collaboration avec l'association France-IOI.
 
 ## Documentation
-La documentation complète peut être trouvée [ici](https://unixfilters.github.io/unixfilters-docs/help/init_task/).
+La documentation complète peut être trouvée [ici](https://unixfilters.github.io/unixfilters-docs/).
 ## Architecture
 ![Architecture](../architecture.png)
 
